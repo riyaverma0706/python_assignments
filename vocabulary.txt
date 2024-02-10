@@ -1,0 +1,8 @@
+sun	sole
+love	amore
+night	notte
+sea	mare
+wine	vino
+home	casa
+book	libro
+green	verde
